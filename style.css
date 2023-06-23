@@ -36,7 +36,7 @@
     cursor: pointer;
 }
 
-.fa-facebook:hover,.fa-instagram:hover,.fa-linkedin:hover,.fa-twitter:hover {
+.fa-facebook:hover,.fa-instagram:hover,.fa-linkedin:hover,.fa-twitter:hover, .fa-github:hover {
     color: blue;
 }
 
